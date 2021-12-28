@@ -4,3 +4,6 @@ Catalan-German alignment has been obtained using this [alignment finder](https:/
 
 - Catalan-English: 1 965 735 segments.
 - Catalan-German: 1 734 644 segments.
+
+## License
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
